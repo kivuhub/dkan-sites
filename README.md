@@ -26,4 +26,6 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Nigeria      | [dataportal.visualdata.com.ng](http://dataportal.visualdata.com.ng) |
 | Marine Scotland      | [marinedata.scotland.gov.uk/~marine](http://marinedata.scotland.gov.uk/~marine/) |
 | Ebola Data      | [eboladata.org](http://eboladata.org/) |
+| Oklahoma      | [http://data.ok.gov](http://data.ok.gov) |
+| USDA National Agricultural Library       | [http://data.nal.usda.gov](http://data.nal.usda.gov) |
 | IT PAMI      | [https://it.pami.org.ar/](https://it.pami.org.ar/) |
