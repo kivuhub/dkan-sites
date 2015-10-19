@@ -29,3 +29,4 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Oklahoma      | [http://data.ok.gov](http://data.ok.gov) |
 | USDA National Agricultural Library       | [http://data.nal.usda.gov](http://data.nal.usda.gov) |
 | IT PAMI      | [https://it.pami.org.ar/](https://it.pami.org.ar/) |
+| Saudi Arabia | [http://data.gov.sa/](http://data.gov.sa/) |
