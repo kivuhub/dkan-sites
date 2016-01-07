@@ -31,3 +31,4 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | IT PAMI      | [https://it.pami.org.ar/](https://it.pami.org.ar/) |
 | Saudi Arabia | [http://data.gov.sa/](http://data.gov.sa/) |
 | City of Decin | [http://data.mmdecin.cz/](http://data.mmdecin.cz/) |
+| Mexican IMSS | [http://datos.imss.gob.mx/](http://datos.imss.gob.mx/) |
