@@ -33,7 +33,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | City of Decin | [http://data.mmdecin.cz/](http://data.mmdecin.cz/) |
 | Mexican IMSS | [http://datos.imss.gob.mx/](http://datos.imss.gob.mx/) |
 | Bank of England | Internal site - no public access |
-| Pompeii, Italy | [http://open/pompeiisites.org] | 
+| Pompeii, Italy | [http://open.pompeiisites.org] | 
 | Bosnia and Gercegovina | [http://opendata.ba] | 
 | Belarus | [http://opendata.by] |
 | Dusseldorf, Germany | [http://www.offenedaten-duesseldorf.de] |
