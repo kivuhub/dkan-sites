@@ -24,7 +24,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Open Knowledge El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | Open Data Kosovo      | [opendatakosovo.org/data](http://opendatakosovo.org/data/) |
 | Nigeria      | [dataportal.visualdata.com.ng](http://dataportal.visualdata.com.ng) |
-| Marine Scotland      | [marinedata.scotland.gov.uk/~marine](http://marinedata.scotland.gov.uk) |
+| Marine Scotland      | [marinedata.scotland.gov.uk](http://marinedata.scotland.gov.uk) |
 | Ebola Data      | [eboladata.org](http://eboladata.org/) |
 | Oklahoma      | [http://data.ok.gov](http://data.ok.gov) |
 | USDA National Agricultural Library       | [http://data.nal.usda.gov](http://data.nal.usda.gov) |
