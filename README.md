@@ -18,7 +18,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
 | Ukraine      | [data.gov.ua](http://data.gov.ua/) |
 | Bogotá (Colombia) Secretariat of Culture, Recreation, and Sport      | [sispru.scrd.gov.co/siscred/dataset](http://sispru.scrd.gov.co/siscred/dataset) |
-| National Democratic Institute      | [tunisiadata.demcloud.org](http://tunisiadata.demcloud.org) |
+| National Democratic Institute      | [https://www.nditech.org/project/dkan] |
 | Hutanriau      | [hutanriau.org](http://Hutanriau.org) |
 | Open Knowledge El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | Open Data Kosovo      | [opendatakosovo.org/data](http://opendatakosovo.org/data/) |
@@ -33,7 +33,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Mexican IMSS | [http://datos.imss.gob.mx/](http://datos.imss.gob.mx/) |
 | Bank of England | Internal site - no public access |
 | Pompeii, Italy | [http://open.pompeiisites.org] | 
-| Bosnia and Gercegovina | [http://opendata.ba] | 
+| Bosnia and Herzegovina | [http://opendata.ba] | 
 | Belarus | [http://opendata.by] |
 | Dusseldorf, Germany | [http://www.offenedaten-duesseldorf.de] |
 | Bielefeld University, Germany | [https://dszbo-portal.uni-bielefeld.de] |
