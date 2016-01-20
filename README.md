@@ -38,3 +38,4 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Belarus | [http://opendata.by] |
 | Dusseldorf, Germany | [http://www.offenedaten-duesseldorf.de] |
 | Bielefeld University, Germany | [https://dszbo-portal.uni-bielefeld.de] |
+| Mannheim, Germany | [https://opendata.mannheim.de/] |
