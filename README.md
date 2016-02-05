@@ -18,7 +18,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
 | Ukraine      | [data.gov.ua](http://data.gov.ua/) |
 | Bogotá (Colombia) Secretariat of Culture, Recreation, and Sport      | [sispru.scrd.gov.co/siscred/dataset](http://sispru.scrd.gov.co/siscred/dataset) |
-| National Democratic Institute      | [https://www.nditech.org/project/dkan] |
+| National Democratic Institute      | [https://www.nditech.org/project/dkan](https://www.nditech.org/project/dkan) |
 | Hutanriau      | [hutanriau.org](http://Hutanriau.org) |
 | Open Knowledge El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | Open Data Kosovo      | [opendatakosovo.org/data](http://opendatakosovo.org/data/) |
