@@ -39,4 +39,4 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Bielefeld University, Germany | [https://dszbo-portal.uni-bielefeld.de] |
 | Mannheim, Germany | [https://opendata.mannheim.de/] |
 | UK Financial Conduct Authority | Internal site - no public access |
-|Louisville, KY | [https://data.louisvilleky.gov/] |
+|Louisville, KY | [data.louisvilleky.gov/](https://data.louisvilleky.gov/) |
