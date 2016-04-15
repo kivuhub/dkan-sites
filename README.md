@@ -4,16 +4,16 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Organization        | URL           |
 | ------------- | ------------- |
 | U.S. Department of Health and Human Services (USA)      | [healthdata.gov](http://healthdata.gov) |
-| USDA National Agricultural Library       | [http://data.nal.usda.gov](http://data.nal.usda.gov) |
-| Oklahoma      | [http://data.ok.gov](http://data.ok.gov) |
-| North Dakota      | [http://gis.nd.gov](http://gis.nd.gov) |
+| USDA National Agricultural Library       | [data.nal.usda.gov](http://data.nal.usda.gov) |
+| Oklahoma      | [data.ok.gov](http://data.ok.gov) |
+| North Dakota      | [gis.nd.gov](http://gis.nd.gov) |
 | Louisville, KY | [data.louisvilleky.gov/](https://data.louisvilleky.gov/) |
 | Cologne (Germany)      | [offenedaten-koeln.de](http://www.offenedaten-koeln.de) |
 | Cambridgeshire (England)      | [opendata.cambridgeshireinsight.org.uk](http://opendata.cambridgeshireinsight.org.uk) |
 | Czech Republic (Ministry of Finance)      | [data.mfcr.cz](http://data.mfcr.cz/) |
 | United Nations (Open Data System Inventory)      | [unog.ch/web/hlcm/inventory](http://www3.unog.ch/web/hlcm/inventory/) |
 | Russia      | [data.gov.ru](http://data.gov.ru/) |
-| Saudi Arabia | [http://data.gov.sa/](http://data.gov.sa/) |
+| Saudi Arabia | [data.gov.sa/](http://data.gov.sa/) |
 | Italy      | [dati.gov.it](http://dati.gov.it) |
 | Ukraine      | [data.gov.ua](http://data.gov.ua/) |
 | The World Bank      | [climatesmartplanning.org](http://climatesmartplanning.org) |
