@@ -7,7 +7,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | USDA National Agricultural Library       | [data.nal.usda.gov](http://data.nal.usda.gov) |
 | Oklahoma      | [data.ok.gov](http://data.ok.gov) |
 | North Dakota      | [gis.nd.gov](http://gis.nd.gov) |
-| Louisville, KY | [data.louisvilleky.gov/](https://data.louisvilleky.gov/) |
+| Louisville, KY | [data.louisvilleky.gov](https://data.louisvilleky.gov/) |
 | Cologne (Germany)      | [offenedaten-koeln.de](http://www.offenedaten-koeln.de) |
 | Cambridgeshire (England)      | [opendata.cambridgeshireinsight.org.uk](http://opendata.cambridgeshireinsight.org.uk) |
 | Czech Republic (Ministry of Finance)      | [data.mfcr.cz](http://data.mfcr.cz/) |
