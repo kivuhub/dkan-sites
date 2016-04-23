@@ -76,7 +76,6 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | ------------- | ------------- |
 | El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | Bogotá (Colombia) Secretariat of Culture, Recreation, and Sport      | [sispru.scrd.gov.co/siscred/dataset](http://sispru.scrd.gov.co/siscred/dataset) |
-| Open Knowledge El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | Mexican IMSS | [datos.imss.gob.mx](http://datos.imss.gob.mx/) |
 | IT PAMI      | [it.pami.org.ar](https://it.pami.org.ar/) |
 | CONCYTEC, Peru    | [datos.concytec.gob.pe](http://datos.concytec.gob.pe/) |
