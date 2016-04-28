@@ -1,7 +1,7 @@
 # DKAN sites
 A list of [DKAN](http://nucivic.com/dkan) sites around the world
 
-## Global
+## Multinational
 | Organization        | URL           |
 | ------------- | ------------- |
 | United Nations (Open Data System Inventory)      | [unog.ch/web/hlcm/inventory](http://www3.unog.ch/web/hlcm/inventory/) |
