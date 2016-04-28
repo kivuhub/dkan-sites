@@ -11,7 +11,6 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 ## United States of America
 | Organization        | URL           |
 | ------------- | ------------- |
-| The White House (USA)      | [whitehouse.gov/raise-the-wage](http://whitehouse.gov/raise-the-wage) |
 | U.S. Department of Health and Human Services (USA)      | [healthdata.gov](http://healthdata.gov) |
 | National Democratic Institute      | [nditech.org/project/dkan](https://www.nditech.org/project/dkan) |
 | USDA National Agricultural Library       | [data.nal.usda.gov](http://data.nal.usda.gov) |
