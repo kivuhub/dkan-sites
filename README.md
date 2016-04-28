@@ -19,7 +19,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Louisville, KY | [data.louisvilleky.gov](https://data.louisvilleky.gov/) |
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
 
-## United Kingdom
+## Europe
 | Organization        | URL           |
 | ------------- | ------------- |
 | Cambridgeshire (England)      | [opendata.cambridgeshireinsight.org.uk](http://opendata.cambridgeshireinsight.org.uk) |
@@ -27,10 +27,6 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Detail Data (Northern Ireland) | [data.nicva.org](http://data.nicva.org/) |
 | UK Financial Conduct Authority | Internal site - no public access |
 | Bank of England | Internal site - no public access |
-
-## Germany
-| Organization        | URL           |
-| ------------- | ------------- |
 | Bonn (Germany)      | [opendata.bonn.de](http://opendata.bonn.de) |
 | Cologne (Germany)      | [offenedaten-koeln.de](http://www.offenedaten-koeln.de) |
 | Dusseldorf, Germany | [offenedaten-duesseldorf.de](http://www.offenedaten-duesseldorf.de) |
@@ -38,26 +34,14 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Mülheim an der Ruhr, Germany | [geo.muelheim-ruhr.de](https://geo.muelheim-ruhr.de/) |
 | Bielefeld University, Germany | [dszbo-portal.uni-bielefeld.de](https://dszbo-portal.uni-bielefeld.de) |
 | RNV (Rhein-Neckar-Verkehr) | [opendata.rnv-online.de](https://opendata.rnv-online.de/) |
-
-## Italy
-| Organization        | URL           |
-| ------------- | ------------- |
 | Italian Government      | [dati.gov.it](http://dati.gov.it) |
 | Pompeii, Italy | [open.pompeiisites.org](http://open.pompeiisites.org) | 
 | Formia, Italy | [dati.comune.formia.lt.it](http://dati.comune.formia.lt.it/) | 
-
-## Czech Republic
-| Organization        | URL           |
-| ------------- | ------------- |
 | Czech Republic (Ministry of Finance)      | [data.mfcr.cz](http://data.mfcr.cz/) |
 | Czech Republic (Ministry of Defence)      | [data.army.cz](http://data.army.cz/) |
 | Czech Republic (Ministry of Regional Development)      | [data.mmr.cz](http://data.mmr.cz/) |
 | Czech Telecommunications Office | [data.ctu.cz](http://data.ctu.cz/) |
 | Děčín Municipality | [data.mmdecin.cz](http://data.mmdecin.cz/) |
-
-## Rest of Europe
-| Organization        | URL           |
-| ------------- | ------------- |
 | Bosnia and Herzegovina | [opendata.ba](http://opendata.ba) | 
 | Belarus | [opendata.by](http://opendata.by) |
 | Ukraine      | [data.gov.ua](http://data.gov.ua/) |
