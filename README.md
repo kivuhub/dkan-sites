@@ -64,6 +64,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | CONCYTEC, Peru    | [datos.concytec.gob.pe](http://datos.concytec.gob.pe/) |
 | Ministry of Education, Peru    | [datos.minedu.gob.pe](http://datos.minedu.gob.pe/) |
 | Ministry of Health, Peru    | [datos.minsa.gob.pe](http://datos.minsa.gob.pe/) |
+| Open Data Windsor Essex, Canada  | [odwe.ca](http://odwe.ca/) |
 
 ## Africa
 | Organization        | URL           |
