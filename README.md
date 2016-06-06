@@ -37,6 +37,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | Italian Government      | [dati.gov.it](http://dati.gov.it) |
 | Pompeii, Italy | [open.pompeiisites.org](http://open.pompeiisites.org) | 
 | Formia, Italy | [dati.comune.formia.lt.it](http://dati.comune.formia.lt.it/) | 
+| Torino, Italy | [aperto.comune.torino.it](http://aperto.comune.torino.it/) | 
 | Czech Republic (Ministry of Finance)      | [data.mfcr.cz](http://data.mfcr.cz/) |
 | Czech Republic (Ministry of Defence)      | [data.army.cz](http://data.army.cz/) |
 | Czech Republic (Ministry of Regional Development)      | [data.mmr.cz](http://data.mmr.cz/) |
