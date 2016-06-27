@@ -58,6 +58,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 ## Americas
 | Organization        | URL           |
 | ------------- | ------------- |
+| Jamaica      | [data.gov.jm](http://data.gov.jm) |
 | Buenos Aires      | [dkan.puertasdebuenosaires.com](http://dkan.puertasdebuenosaires.com) |
 | El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | Bogotá (Colombia) Secretariat of Culture, Recreation, and Sport      | [sispru.scrd.gov.co/siscred/dataset](http://sispru.scrd.gov.co/siscred/dataset) |
