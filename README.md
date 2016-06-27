@@ -18,6 +18,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | North Dakota      | [gis.nd.gov](http://gis.nd.gov) |
 | Louisville, KY | [data.louisvilleky.gov](https://data.louisvilleky.gov/) |
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
+| San Diego, CA   | [data.sandiego.gov] (http://data.sandiego.gov) |
 
 ## Europe
 | Organization        | URL           |
