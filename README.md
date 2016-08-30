@@ -6,7 +6,6 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | ------------- | ------------- |
 | United Nations (Open Data System Inventory)      | [unog.ch/web/hlcm/inventory](http://www3.unog.ch/web/hlcm/inventory/) |
 | The World Bank      | [climatesmartplanning.org](http://climatesmartplanning.org) |
-| Ebola Data      | [eboladata.org](http://eboladata.org/) |
 
 ## United States of America
 | Organization        | URL           |
@@ -77,3 +76,4 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 | ------------- | ------------- |
 | Sierra Leone | [opendata.gov.sl](http://opendata.gov.sl) |
 | Nigeria      | [dataportal.visualdata.com.ng](http://dataportal.visualdata.com.ng) |
+| Ghana      | [data.gov.gh](http://data.gov.gh) |
