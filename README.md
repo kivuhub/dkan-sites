@@ -13,8 +13,10 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | U.S. Department of Health and Human Services (USA)      | [healthdata.gov](http://healthdata.gov) |
 | National Democratic Institute      | [nditech.org/project/dkan](https://www.nditech.org/project/dkan) |
 | USDA National Agricultural Library       | [data.nal.usda.gov](http://data.nal.usda.gov) |
+| California      | [data.ca.gov](http://data.ca.gov) |
 | Oklahoma      | [data.ok.gov](http://data.ok.gov) |
 | North Dakota      | [gis.nd.gov](http://gis.nd.gov) |
+| Georgia (Governor's Office of Student Achievement) | [schoolgrades.ga.gov](http://schoolgrades.ga.gov) |
 | Louisville, KY | [data.louisvilleky.gov](https://data.louisvilleky.gov/) |
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
 | San Diego, CA   | [data.sandiego.gov] (http://data.sandiego.gov) |
