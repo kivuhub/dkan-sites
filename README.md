@@ -1,5 +1,5 @@
 # DKAN sites
-A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Please feel free to submit an issue in order to add others you know of that are not on this list.
+A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Please feel free to [submit an issue](https://github.com/NuCivic/dkan-sites/issues) in order to add others you know of that are not on this list.
 
 ## Multinational
 | Organization        | URL           |
