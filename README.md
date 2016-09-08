@@ -35,6 +35,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Mannheim, Germany | [opendata.mannheim.de](https://opendata.mannheim.de) |
 | Mülheim an der Ruhr, Germany | [geo.muelheim-ruhr.de](https://geo.muelheim-ruhr.de/) |
 | Bielefeld University, Germany | [dszbo-portal.uni-bielefeld.de](https://dszbo-portal.uni-bielefeld.de) |
+| Wuppertal, Germany | [offenedaten-wuppertal.de](http://offenedaten-wuppertal.de) |
 | RNV (Rhein-Neckar-Verkehr) | [opendata.rnv-online.de](https://opendata.rnv-online.de/) |
 | Italian Government      | [dati.gov.it](http://dati.gov.it) |
 | Pompeii, Italy | [open.pompeiisites.org](http://open.pompeiisites.org) | 
