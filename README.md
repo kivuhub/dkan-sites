@@ -51,6 +51,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Ukraine      | [data.gov.ua](http://data.gov.ua/) |
 | Russia      | [data.gov.ru](http://data.gov.ru/) |
 | Kosovo      | [opendatakosovo.org/data](http://opendatakosovo.org/data/) |
+| Instituto Politécnico de Bragança (Portugal)     | [observatoriottm.ipb.pt](http://observatoriottm.ipb.pt/) 
 
 ## Asia
 | Organization        | URL           |
