@@ -78,6 +78,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 ## Africa
 | Organization        | URL           |
 | ------------- | ------------- |
+| Pan-Africa | | [Network for Agricultural Transformation in Africa](http://transformagriculture.org) |
 | Sierra Leone | [opendata.gov.sl](http://opendata.gov.sl) |
 | Nigeria      | [dataportal.visualdata.com.ng](http://dataportal.visualdata.com.ng) |
 | Ghana      | [data.gov.gh](http://data.gov.gh) |
