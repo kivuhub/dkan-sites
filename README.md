@@ -83,3 +83,8 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Nigeria      | [dataportal.visualdata.com.ng](http://dataportal.visualdata.com.ng) |
 | Ghana      | [data.gov.gh](http://data.gov.gh) |
 | Namibia      | [namopendata.com](http://www.namopendata.com/demo/) |
+
+## Canada
+| Organization        | URL           |
+| ------------- | ------------- |
+| City of Fredericton | [http://data.fredericton.ca/](http://data.fredericton.ca)
