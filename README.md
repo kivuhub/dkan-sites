@@ -61,7 +61,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | ------------- | ------------- |
 | Saudi Arabia | [data.gov.sa](http://data.gov.sa/) |
 | Hutanriau      | [hutanriau.org](http://Hutanriau.org) |
-| Ikoma (Japan) | [http://data.code4ikoma.org/] (http://data.code4ikoma.org/) |
+| Ikoma (Japan) | [data.code4ikoma.org] (http://data.code4ikoma.org/) |
 
 ## Americas
 | Organization        | URL           |
