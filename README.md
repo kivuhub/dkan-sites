@@ -44,7 +44,6 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Confiscati Bene| [http://www.confiscatibene.it/](http://www.confiscatibene.it/) | 
 | Donneche Contano| [http://donnechecontano.it/](http://donnechecontano.it/) | 
 | Data Hub (Hungary)| [http://data-hub.hu/](http://data-hub.hu/) | 
-
 | Czech Republic (Ministry of Finance)      | [data.mfcr.cz](http://data.mfcr.cz/) |
 | Czech Republic (Ministry of Defence)      | [data.army.cz](http://data.army.cz/) |
 | Czech Republic (Ministry of Regional Development)      | [data.mmr.cz](http://data.mmr.cz/) |
