@@ -41,6 +41,10 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Pompeii, Italy | [open.pompeiisites.org](http://open.pompeiisites.org) | 
 | Formia, Italy | [dati.comune.formia.lt.it](http://dati.comune.formia.lt.it/) | 
 | Torino, Italy | [aperto.comune.torino.it](http://aperto.comune.torino.it/) | 
+| Confiscati Bene| [http://www.confiscatibene.it/](http://www.confiscatibene.it/) | 
+| Donneche Contano| [http://donnechecontano.it/](http://donnechecontano.it/) | 
+| Data Hub (Hungary)| [http://data-hub.hu/](http://data-hub.hu/) | 
+
 | Czech Republic (Ministry of Finance)      | [data.mfcr.cz](http://data.mfcr.cz/) |
 | Czech Republic (Ministry of Defence)      | [data.army.cz](http://data.army.cz/) |
 | Czech Republic (Ministry of Regional Development)      | [data.mmr.cz](http://data.mmr.cz/) |
@@ -85,3 +89,4 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Nigeria      | [dataportal.visualdata.com.ng](http://dataportal.visualdata.com.ng) |
 | Ghana      | [data.gov.gh](http://data.gov.gh) |
 | Namibia      | [namopendata.com](http://www.namopendata.com/demo/) |
+| South Africa      | [data.gob.sa](http://data.gob.sa) |
