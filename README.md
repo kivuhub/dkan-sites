@@ -6,6 +6,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | ------------- | ------------- |
 | United Nations (Open Data System Inventory)      | [unog.ch/web/hlcm/inventory](http://www3.unog.ch/web/hlcm/inventory/) |
 | The World Bank      | [climatesmartplanning.org](http://climatesmartplanning.org) |
+| Votes Without Violence | [https://www.voteswithoutviolence.org](https://www.voteswithoutviolence.org) |
 
 ## United States of America
 | Organization        | URL           |
