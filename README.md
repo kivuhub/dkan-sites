@@ -38,12 +38,13 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Bielefeld University, Germany | [dszbo-portal.uni-bielefeld.de](https://dszbo-portal.uni-bielefeld.de) |
 | Wuppertal, Germany | [offenedaten-wuppertal.de](http://offenedaten-wuppertal.de) |
 | RNV (Rhein-Neckar-Verkehr) | [opendata.rnv-online.de](https://opendata.rnv-online.de/) |
+| KDZV Frechen Rhein Erft Rur | [offenedaten.kdvz-frechen.de/](http://offenedaten.kdvz-frechen.de/) |
 | Italian Government      | [dati.gov.it](http://dati.gov.it) |
 | Pompeii, Italy | [open.pompeiisites.org](http://open.pompeiisites.org) | 
 | Formia, Italy | [dati.comune.formia.lt.it](http://dati.comune.formia.lt.it/) | 
 | Torino, Italy | [aperto.comune.torino.it](http://aperto.comune.torino.it/) | 
-| Confiscati Bene| [http://www.confiscatibene.it/](http://www.confiscatibene.it/) | 
-| Donneche Contano| [http://donnechecontano.it/](http://donnechecontano.it/) | 
+| Confiscati Bene | [http://www.confiscatibene.it/](http://www.confiscatibene.it/) | 
+| Donneche Contano | [http://donnechecontano.it/](http://donnechecontano.it/) | 
 | Data Hub (Hungary)| [http://data-hub.hu/](http://data-hub.hu/) | 
 | Czech Republic (Ministry of Finance)      | [data.mfcr.cz](http://data.mfcr.cz/) |
 | Czech Republic (Ministry of Defence)      | [data.army.cz](http://data.army.cz/) |
@@ -63,6 +64,8 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Saudi Arabia | [data.gov.sa](http://data.gov.sa/) |
 | Hutanriau      | [hutanriau.org](http://Hutanriau.org) |
 | Ikoma (Japan) | [data.code4ikoma.org] (http://data.code4ikoma.org/) |
+| Urban Data Challenge (Japan) | [udct-data.aigid.jp] (http://udct-data.aigid.jp) |
+| Banda Aceh City Council, Indonesia | [data.bandaacehkota.go.id/] (http://data.bandaacehkota.go.id/) |
 
 ## Americas
 | Organization        | URL           |
