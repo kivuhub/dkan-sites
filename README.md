@@ -71,11 +71,12 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Organization        | URL           |
 | ------------- | ------------- |
 | Jamaica      | [data.gov.jm](http://data.gov.jm) |
-| Buenos Aires      | [dkan.puertasdebuenosaires.com](http://dkan.puertasdebuenosaires.com) |
+| Buenos Aires, Argentina      | [dkan.puertasdebuenosaires.com](http://dkan.puertasdebuenosaires.com) |
+| Rosario, Argentina      | [datos.rosario.gob.ar](http://datos.rosario.gob.ar) |
+| IT PAMI      | [it.pami.org.ar](https://it.pami.org.ar/) |
 | El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | Bogotá (Colombia) Secretariat of Culture, Recreation, and Sport      | [sispru.scrd.gov.co/siscred/dataset](http://sispru.scrd.gov.co/siscred/dataset) |
 | Mexican IMSS | [datos.imss.gob.mx](http://datos.imss.gob.mx/) |
-| IT PAMI      | [it.pami.org.ar](https://it.pami.org.ar/) |
 | CONCYTEC, Peru    | [datos.concytec.gob.pe](http://datos.concytec.gob.pe/) |
 | Ministry of Education, Peru    | [datos.minedu.gob.pe](http://datos.minedu.gob.pe/) |
 | Ministry of Health, Peru    | [datos.minsa.gob.pe](http://datos.minsa.gob.pe/) |
