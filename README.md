@@ -40,6 +40,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | RNV (Rhein-Neckar-Verkehr) | [opendata.rnv-online.de](https://opendata.rnv-online.de/) |
 | KDZV Frechen Rhein Erft Rur | [offenedaten.kdvz-frechen.de/](http://offenedaten.kdvz-frechen.de/) |
 | Italian Government      | [dati.gov.it](http://dati.gov.it) |
+| Genova, Italy      | [dati.comune.genova.it/](http://dati.comune.genova.it/) |
 | Pompeii, Italy | [open.pompeiisites.org](http://open.pompeiisites.org) | 
 | Formia, Italy | [dati.comune.formia.lt.it](http://dati.comune.formia.lt.it/) | 
 | Torino, Italy | [aperto.comune.torino.it](http://aperto.comune.torino.it/) | 
@@ -63,7 +64,8 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | ------------- | ------------- |
 | Saudi Arabia | [data.gov.sa](http://data.gov.sa/) |
 | Hutanriau      | [hutanriau.org](http://Hutanriau.org) |
-| Ikoma (Japan) | [data.code4ikoma.org] (http://data.code4ikoma.org/) |
+| Ikoma, Japan | [data.code4ikoma.org] (http://data.code4ikoma.org/) |
+| Kyoto, Japan | [data.city.kyoto.lg.jp/] (https://data.city.kyoto.lg.jp/) |
 | Urban Data Challenge (Japan) | [udct-data.aigid.jp] (http://udct-data.aigid.jp) |
 | Banda Aceh City Council, Indonesia | [data.bandaacehkota.go.id/] (http://data.bandaacehkota.go.id/) |
 
