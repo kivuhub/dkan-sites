@@ -51,8 +51,8 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Czech Republic (Ministry of Defence)      | [data.army.cz](http://data.army.cz/) |
 | Czech Republic (Ministry of Regional Development)      | [data.mmr.cz](http://data.mmr.cz/) |
 | Czech Telecommunications Office | [data.ctu.cz](http://data.ctu.cz/) |
-| Děčín Municipality | [apdkritis.gov.gr/en](http://www.apdkritis.gov.gr/en) |
-| Decentralised Administration of Crete, Greece | [data.ctu.cz](http://data.ctu.cz/) |
+| Děčín Municipality | [data.mmdecin.cz](http://data.mmdecin.cz/) |
+| Decentralised Administration of Crete, Greece | [apdkritis.gov.gr/en](http://www.apdkritis.gov.gr/en) |
 | Bosnia and Herzegovina | [opendata.ba](http://opendata.ba) | 
 | Belarus | [opendata.by](http://opendata.by) |
 | Ukraine      | [data.gov.ua](http://data.gov.ua/) |
