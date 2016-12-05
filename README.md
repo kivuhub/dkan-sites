@@ -51,7 +51,8 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Czech Republic (Ministry of Defence)      | [data.army.cz](http://data.army.cz/) |
 | Czech Republic (Ministry of Regional Development)      | [data.mmr.cz](http://data.mmr.cz/) |
 | Czech Telecommunications Office | [data.ctu.cz](http://data.ctu.cz/) |
-| Děčín Municipality | [data.mmdecin.cz](http://data.mmdecin.cz/) |
+| Děčín Municipality | [apdkritis.gov.gr/en](http://www.apdkritis.gov.gr/en) |
+| Decentralised Administration of Crete, Greece | [data.ctu.cz](http://data.ctu.cz/) |
 | Bosnia and Herzegovina | [opendata.ba](http://opendata.ba) | 
 | Belarus | [opendata.by](http://opendata.by) |
 | Ukraine      | [data.gov.ua](http://data.gov.ua/) |
@@ -68,6 +69,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Kyoto, Japan | [data.city.kyoto.lg.jp/] (https://data.city.kyoto.lg.jp/) |
 | Urban Data Challenge (Japan) | [udct-data.aigid.jp] (http://udct-data.aigid.jp) |
 | Banda Aceh City Council, Indonesia | [data.bandaacehkota.go.id/] (http://data.bandaacehkota.go.id/) |
+| Gerakan Anti Corruption Project, Indonesia | [data.gerakaceh.id/] (http://data.gerakaceh.id/) |
 
 ## Americas
 | Organization        | URL           |
