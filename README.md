@@ -64,6 +64,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Organization        | URL           |
 | ------------- | ------------- |
 | Saudi Arabia | [data.gov.sa](http://data.gov.sa/) |
+| G0V, Taiwan | [data.g0v.tw](http://data.g0v.tw/) |
 | Ikoma, Japan | [data.code4ikoma.org] (http://data.code4ikoma.org/) |
 | Kyoto, Japan | [data.city.kyoto.lg.jp/] (https://data.city.kyoto.lg.jp/) |
 | Urban Data Challenge, Japan | [udct-data.aigid.jp] (http://udct-data.aigid.jp) |
@@ -81,6 +82,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Rosario, Argentina      | [datos.rosario.gob.ar](http://datos.rosario.gob.ar) |
 | IT PAMI, Argentina      | [it.pami.org.ar](https://it.pami.org.ar/) |
 | Bogotá Secretariat of Culture, Recreation, and Sport, Colombia      | [sispru.scrd.gov.co/siscred/dataset](http://sispru.scrd.gov.co/siscred/dataset) |
+| Narino, Colombia | [datos.narino.gov.co/](http://datos.narino.gov.co/) |
 | IMSS, Mexico | [datos.imss.gob.mx](http://datos.imss.gob.mx/) |
 | CONCYTEC, Peru    | [datos.concytec.gob.pe](http://datos.concytec.gob.pe/) |
 | Ministry of Education, Peru    | [datos.minedu.gob.pe](http://datos.minedu.gob.pe/) |
