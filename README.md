@@ -39,6 +39,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Wuppertal, Germany | [offenedaten-wuppertal.de](http://offenedaten-wuppertal.de) |
 | RNV, Germany | [opendata.rnv-online.de](https://opendata.rnv-online.de/) |
 | KDZV Frechen Rhein Erft Rur, Germany | [offenedaten.kdvz-frechen.de/](http://offenedaten.kdvz-frechen.de/) |
+| Montpellier, France | [data.montpellier3m.fr/](http://data.montpellier3m.fr/) |
 | Italy      | [dati.gov.it](http://dati.gov.it) |
 | Genova, Italy      | [dati.comune.genova.it/](http://dati.comune.genova.it/) |
 | Pompeii, Italy | [open.pompeiisites.org](http://open.pompeiisites.org) | 
