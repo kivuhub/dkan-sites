@@ -61,11 +61,12 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Moscow Region, Russia      | [data.mosreg.ru](http://data.mosreg.ru/) |
 | Instituto Politécnico de Bragança, Portugal     | [Observatorio TTM](http://observatoriottm.ipb.pt/) 
 
-## Asia
+## Asia and Oceania
 | Organization        | URL           |
 | ------------- | ------------- |
 | Saudi Arabia | [data.gov.sa](http://data.gov.sa/) |
-| G0V, Taiwan | [data.g0v.tw](http://data.g0v.tw/) |
+| Transport for New South Wales, Australia | [opendata.transport.nsw.gov.au](https://opendata.transport.nsw.gov.au/) |
+|G0V, Taiwan | [data.g0v.tw](http://data.g0v.tw/) |
 | Ikoma, Japan | [data.code4ikoma.org] (http://data.code4ikoma.org/) |
 | Kyoto, Japan | [data.city.kyoto.lg.jp/] (https://data.city.kyoto.lg.jp/) |
 | Urban Data Challenge, Japan | [udct-data.aigid.jp] (http://udct-data.aigid.jp) |
