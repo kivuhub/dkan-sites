@@ -53,6 +53,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Ministry of Regional Development, Czech Republic      | [data.mmr.cz](http://data.mmr.cz/) |
 | Czech Telecommunications Office, Czech Republic | [data.ctu.cz](http://data.ctu.cz/) |
 | Děčín Municipality, Czech Republic | [data.mmdecin.cz](http://data.mmdecin.cz/) |
+| Opava Municipality, Czech Republic | [kod.opava-city.cz](http://kod.opava-city.cz) |
 | Decentralised Administration of Crete, Greece | [apdkritis.gov.gr/en](http://www.apdkritis.gov.gr/en) |
 | Bosnia and Herzegovina | [opendata.ba](http://opendata.ba) | 
 | Belarus | [opendata.by](http://opendata.by) |
@@ -66,7 +67,8 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | ------------- | ------------- |
 | Saudi Arabia | [data.gov.sa](http://data.gov.sa/) |
 | Transport for New South Wales, Australia | [opendata.transport.nsw.gov.au](https://opendata.transport.nsw.gov.au/) |
-|G0V, Taiwan | [data.g0v.tw](http://data.g0v.tw/) |
+| Maps and Data, Cape York, Australia | [maps.capeyorknrm.com.au](http://maps.capeyorknrm.com.au) |
+| G0V, Taiwan | [data.g0v.tw](http://data.g0v.tw/) |
 | Ikoma, Japan | [data.code4ikoma.org] (http://data.code4ikoma.org/) |
 | Kyoto, Japan | [data.city.kyoto.lg.jp/] (https://data.city.kyoto.lg.jp/) |
 | Urban Data Challenge, Japan | [udct-data.aigid.jp] (http://udct-data.aigid.jp) |
