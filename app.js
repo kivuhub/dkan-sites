@@ -1,4 +1,4 @@
-url = '/sites.json';
+url = 'sites.json';
 $.getJSON(url, function (json) {
     count = new DKANCounter(json);
     console.log(count);
