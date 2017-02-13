@@ -1,7 +1,7 @@
 url = 'http://nucivic.github.io/dkan-sites/sites.json';
 $.getJSON(url, function (json) {
     count = new DKANCounter(json);
-    $("#total).html(count.count);
+    $("#total").html(count.count);
     console.log(count);
     tables = new DKANTable(json);
     $.each(tables, function(key,table) {
