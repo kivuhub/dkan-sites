@@ -303,49 +303,49 @@
 	"url": "http://data.gov.sa",
 	"city": "",
 	"country": "Saudi Arabia",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "Taiwan",
 	"url": "http://data.g0v.tw/",
 	"city": "",
 	"country": "Taiwan",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "City of Ikoma",
 	"url": "http://data.code4ikoma.org/",
 	"city": "Ikoma",
 	"country": "Japan",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "City of Kyoto",
 	"url": "https://data.city.kyoto.lg.jp",
 	"city": "Kyoto",
 	"country": "Japan",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "Urban Data Challenge",
 	"url": "http://udct-data.aigid.jp",
 	"city": "",
 	"country": "Japan",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "Banda Aceh City Council",
 	"url": "http://data.bandaacehkota.go.id/",
 	"city": "Banda Aceh",
 	"country": "Indonesia",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "Gerakan Anti Corruption Project",
 	"url": "http://data.gerakaceh.id",
 	"city": "",
 	"country": "Indonesia",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "City of Hutanriau",
 	"url": "http://Hutanriau.org",
 	"city": "Hutanriau",
 	"country": "Indonesia",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "Jamaica",
 	"url": "http://data.gov.jm",
@@ -495,7 +495,7 @@
 	"url": "https://opendata.transport.nsw.gov.au/r",
 	"city": "New South Wales",
 	"country": "Australia",
-	"region": "Asia"
+	"region": "Asia & Oceania"
 }, {
 	"title": "Opava Municipality",
 	"url": "https://opendata.transport.nsw.gov.au/r",
