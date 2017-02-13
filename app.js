@@ -2,6 +2,8 @@ url = 'http://nucivic.github.io/dkan-sites/sites.json';
 $.getJSON(url, function (json) {
     count = new DKANCounter(json);
     $("#total").html(count.count);
+    $("#cities").html(count.cities);
+    $("#countries").html(count.countries);
     console.log(count);
     tables = new DKANTable(json);
     $.each(tables, function(key,table) {
@@ -27,7 +29,7 @@ function DKANTable(data) {
   });
 
   $.each(formatted, function(region,rows) {
-   var table = '<h2>' + region + '</h2><table class="table table-bordered table-striped table-condensed">';
+   var table = '<h3>' + region + '</h3><table class="table table-bordered table-striped table-condensed">';
    table = table + '<tr>';
    $.each(headers, function(key,header) {
      table= table + '<th>' + header + '</th>';
