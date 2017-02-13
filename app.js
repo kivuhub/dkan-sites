@@ -18,7 +18,7 @@ function DKANTable(data) {
     "Europe": [],
     "Americas": [],
     "Africa": [],
-    "Asia": []
+    "Asia & Oceania": []
   };
 
   $.each(data, function(key,site) {
