@@ -7,7 +7,7 @@ California;data.ca.gov;38.576587;-121.493245
 Oklahoma;data.ok.gov;35.492106;-97.503317
 North Dakota;gis.nd.gov;46.827910;-100.792981
 Georgia (Governor's Office of Student Achievement);schoolgrades.ga.gov;33.750127;-84.386129
-Louisville, KY;data.louisvilleky.gov;38.254196;-85.760337
+Louisville KY;data.louisvilleky.gov;38.254196;-85.760337
 OpenOakland;data.openoakland.org;37.805344;-122.272286
 San Diego, CA;data.sandiego.gov;32.716915;-117.162969
 Cambridgeshire, UK;opendata.cambridgeshireinsight.org.uk;52.213009;0.112802
@@ -19,7 +19,7 @@ Bonn, Germany;opendata.bonn.de;50.737103;7.094470
 Cologne, Germany;offenedaten-koeln.de;50.938103;6.959121
 Dusseldorf, Germany;offenedaten-duesseldorf.de;51.225691;6.771482
 Mannheim, Germany;opendata.mannheim.de;49.489397;8.462785
-Mülheim an der Ruhr, Germany;geo.muelheim-ruhr.de;51.428735;6.877627
+MÃ¼lheim an der Ruhr, Germany;geo.muelheim-ruhr.de;51.428735;6.877627
 Bielefeld University, Germany;dszbo-portal.uni-bielefeld.de;52.037689;8.493470
 Wuppertal, Germany;offenedaten-wuppertal.de;51.272093;7.200039
 RNV, Germany;opendata.rnv-online.de;49.441600;8.614710
@@ -37,7 +37,7 @@ Ministry of Finance, Czech Republic;data.mfcr.cz;50.089153;14.407199
 Ministry of Defence, Czech Republic;data.army.cz;50.095330;14.403504
 Ministry of Regional Development, Czech Republic;data.mmr.cz;50.088226;14.421123
 Czech Telecommunications Office, Czech Republic;data.ctu.cz;50.110656;14.499049
-Dìèín Municipality, Czech Republic;data.mmdecin.cz;50.773770;14.195649
+DÃ¬Ã¨Ã­n Municipality, Czech Republic;data.mmdecin.cz;50.773770;14.195649
 Opava Municipality, Czech Republic;kod.opava-city.cz;49.938870;17.902516
 Decentralised Administration of Crete, Greece;apdkritis.gov.gr/en;35.337249;25.133336
 Bosnia and Herzegovina;opendata.ba;43.861751;18.410895
@@ -61,7 +61,7 @@ El Salvador;datoselsalvador.org;13.692643; -89.220360
 Buenos Aires, Argentina;dkan.puertasdebuenosaires.com;-34.616606;-58.376049
 Rosario, Argentina;datos.rosario.gob.ar;-32.944505; -60.646319
 IT PAMI, Argentina;it.pami.org.ar;-34.673708;-58.724216
-Bogotá Secretariat of Culture, Recreation, and Sport, Colombia;sispru.scrd.gov.co/siscred/dataset;4.595954; -74.076746
+BogotÃ¡ Secretariat of Culture, Recreation, and Sport, Colombia;sispru.scrd.gov.co/siscred/dataset;4.595954; -74.076746
 Narino, Colombia;datos.narino.gov.co/;1.297813; -77.486038
 IMSS, Mexico;datos.imss.gob.mx;19.423470; -99.172788
 CONCYTEC, Peru;datos.concytec.gob.pe;-12.125395; -77.025647
