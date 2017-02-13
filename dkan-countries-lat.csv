@@ -1,0 +1,80 @@
+Organization;URL;Latitude;Longitude
+Votes Without Violence;voteswithoutviolence.org;38.901048;-77.017576
+U.S. Department of Health and Human Services (USA);healthdata.gov;38.901048;-77.017576
+National Democratic Institute;nditech.org/project/dkan;38.901048;-77.017576
+USDA National Agricultural Library;data.nal.usda.gov;39.022775;-76.921752
+California;data.ca.gov;38.576587;-121.493245
+Oklahoma;data.ok.gov;35.492106;-97.503317
+North Dakota;gis.nd.gov;46.827910;-100.792981
+Georgia (Governor's Office of Student Achievement);schoolgrades.ga.gov;33.750127;-84.386129
+Louisville, KY;data.louisvilleky.gov;38.254196;-85.760337
+OpenOakland;data.openoakland.org;37.805344;-122.272286
+San Diego, CA;data.sandiego.gov;32.716915;-117.162969
+Cambridgeshire, UK;opendata.cambridgeshireinsight.org.uk;52.213009;0.112802
+Marine Scotland, UK;marinedata.scotland.gov.uk;57.137909;-2.070518
+Detail Data Northern Ireland, UK;data.nicva.org;54.599072;-5.829319
+UK Financial Conduct Authority;Internal site - no public access;51.505617;-0.020052
+Bank of England;Internal site - no public access;51.514304;-0.086470
+Bonn, Germany;opendata.bonn.de;50.737103;7.094470
+Cologne, Germany;offenedaten-koeln.de;50.938103;6.959121
+Dusseldorf, Germany;offenedaten-duesseldorf.de;51.225691;6.771482
+Mannheim, Germany;opendata.mannheim.de;49.489397;8.462785
+Mülheim an der Ruhr, Germany;geo.muelheim-ruhr.de;51.428735;6.877627
+Bielefeld University, Germany;dszbo-portal.uni-bielefeld.de;52.037689;8.493470
+Wuppertal, Germany;offenedaten-wuppertal.de;51.272093;7.200039
+RNV, Germany;opendata.rnv-online.de;49.441600;8.614710
+KDZV Frechen Rhein Erft Rur, Germany;offenedaten.kdvz-frechen.de/;50.912761;6.827938
+Montpellier, France;data.montpellier3m.fr/;43.598544;3.896837
+Italy;dati.gov.it;41.901221;12.479820
+Genova, Italy;dati.comune.genova.it/;44.410875;8.937435
+Pompeii, Italy;open.pompeiisites.org;40.746157;14.498934
+Formia, Italy;dati.comune.formia.lt.it;41.255651;13.605963
+Torino, Italy;aperto.comune.torino.it;45.039990;7.681590
+Confiscati Bene, Italy;http://www.confiscatibene.it/;38.130920;13.345575
+Donneche Contano, Italy;http://donnechecontano.it/;45.490646;9.187170
+Data Hub, Hungary;http://data-hub.hu/;47.477705;19.051717
+Ministry of Finance, Czech Republic;data.mfcr.cz;50.089153;14.407199
+Ministry of Defence, Czech Republic;data.army.cz;50.095330;14.403504
+Ministry of Regional Development, Czech Republic;data.mmr.cz;50.088226;14.421123
+Czech Telecommunications Office, Czech Republic;data.ctu.cz;50.110656;14.499049
+Dìèín Municipality, Czech Republic;data.mmdecin.cz;50.773770;14.195649
+Opava Municipality, Czech Republic;kod.opava-city.cz;49.938870;17.902516
+Decentralised Administration of Crete, Greece;apdkritis.gov.gr/en;35.337249;25.133336
+Bosnia and Herzegovina;opendata.ba;43.861751;18.410895
+Belarus;opendata.by;53.904540;27.561524
+Ukraine;data.gov.ua;50.447967;30.533414
+Russia;data.gov.ru;55.752023;37.617499
+Moscow Region, Russia;data.mosreg.ru;55.815974;37.381104
+Saudi Arabia;data.gov.sa;24.725188;46.721259
+Transport for New South Wales, Australia;opendata.transport.nsw.gov.au;-33.819007;151.005740
+Maps and Data, Cape York, Australia;maps.capeyorknrm.com.au;-17.258578;145.484882
+G0V, Taiwan;data.g0v.tw;25.033141; 121.564008
+Ikoma, Japan;data.code4ikoma.org;34.706789; 135.709804
+Kyoto, Japan;data.city.kyoto.lg.jp/;35.011874; 135.768167
+Urban Data Challenge, Japan;udct-data.aigid.jp;35.116585; 136.138099
+Banda Aceh City Council, Indonesia;data.bandaacehkota.go.id/;5.548458; 95.319775
+Gerakan Anti Corruption Project, Indonesia;data.gerakaceh.id/;5.569559; 95.353557
+Hutanriau, Indonesia;hutanriau.org;0.512497; 101.448429
+Jamaica;data.gov.jm;18.004526; -76.792488
+Puerto Rico;abrepr.org;18.449707; -66.067130
+El Salvador;datoselsalvador.org;13.692643; -89.220360
+Buenos Aires, Argentina;dkan.puertasdebuenosaires.com;-34.616606;-58.376049
+Rosario, Argentina;datos.rosario.gob.ar;-32.944505; -60.646319
+IT PAMI, Argentina;it.pami.org.ar;-34.673708;-58.724216
+Bogotá Secretariat of Culture, Recreation, and Sport, Colombia;sispru.scrd.gov.co/siscred/dataset;4.595954; -74.076746
+Narino, Colombia;datos.narino.gov.co/;1.297813; -77.486038
+IMSS, Mexico;datos.imss.gob.mx;19.423470; -99.172788
+CONCYTEC, Peru;datos.concytec.gob.pe;-12.125395; -77.025647
+Ministry of Education, Peru;datos.minedu.gob.pe;-12.085152;-77.000901
+Ministry of Health, Peru;datos.minsa.gob.pe;-12.072693;-77.041584
+National Jury of Elections, Peru;jnedatosabiertos.pe;-12.046720;-77.042433
+Ministry of Labor, Peru;datos.trabajo.gob.pe;-12.071367;-77.040704
+Open Data Windsor Essex, Canada;odwe.ca;42.317422;-83.035269
+City of Fredericton, Canada;data.fredericton.ca;45.963498; -66.642513
+Sierra Leone;opendata.gov.sl;8.486488; -13.234093
+Nigeria;dataportal.visualdata.com.ng;6.519090; 3.366578
+Ghana;data.gov.gh;5.603645; -0.187564
+Namibia;namopendata.com;-22.564051; 17.085585
+South Africa;data.gov.za;-25.759015; 28.198118
+Local Development Research Initiative, Kenya;transformagriculture.org;-1.292508; 36.778374
+Sayada, Tunisia;opendata.sayada.tn/fr;35.660986; 10.904751
