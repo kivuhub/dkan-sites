@@ -5,6 +5,7 @@ $.getJSON(url, function (json) {
     $("#cities").html(count.cities);
     $("#countries").html(count.countries);
     console.log(count);
+    $(".render-bar").toggle();
     tables = new DKANTable(json);
     $.each(tables, function(key,table) {
       $("#tables").append(table);
