@@ -16,7 +16,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | USDA National Agricultural Library       | [data.nal.usda.gov](http://data.nal.usda.gov) |
 | California      | [data.ca.gov](http://data.ca.gov) |
 | Oklahoma      | [data.ok.gov](http://data.ok.gov) |
-| North Dakota      | [gis.nd.gov](http://gis.nd.gov) |
+| North Dakota      | [gishubdata.nd.gov/](https://gishubdata.nd.gov) |
 | Georgia (Governor's Office of Student Achievement) | [schoolgrades.ga.gov](http://schoolgrades.ga.gov) |
 | Louisville, KY | [data.louisvilleky.gov](https://data.louisvilleky.gov/) |
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
