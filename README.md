@@ -18,6 +18,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Oklahoma      | [data.ok.gov](http://data.ok.gov) |
 | North Dakota      | [gishubdata.nd.gov/](https://gishubdata.nd.gov) |
 | Georgia (Governor's Office of Student Achievement) | [schoolgrades.ga.gov](http://schoolgrades.ga.gov) |
+| Nebraska      | [www.nebraskamap.gov/](https://nebraskamap.gov) |
 | Louisville, KY | [data.louisvilleky.gov](https://data.louisvilleky.gov/) |
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
 | San Diego, CA   | [data.sandiego.gov] (http://data.sandiego.gov) |
