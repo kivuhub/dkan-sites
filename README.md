@@ -68,6 +68,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Organization        | URL           |
 | ------------- | ------------- |
 | Saudi Arabia | [data.gov.sa](http://data.gov.sa/) |
+| Bangladesh | [data.gov.bd](http://data.gov.bd/) |
 | Transport for New South Wales, Australia | [opendata.transport.nsw.gov.au](https://opendata.transport.nsw.gov.au/) |
 | Maps and Data, Cape York, Australia | [maps.capeyorknrm.com.au](http://maps.capeyorknrm.com.au) |
 | G0V, Taiwan | [data.g0v.tw](http://data.g0v.tw/) |
