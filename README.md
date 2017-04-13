@@ -23,6 +23,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Louisville, KY | [data.louisvilleky.gov](https://data.louisvilleky.gov/) |
 | OpenOakland      | [data.openoakland.org](http://data.openoakland.org) |
 | San Diego, CA      | [data.sandiego.gov](http://data.sandiego.gov) |
+| DigitalC      | [civicinsights.org](http://civicinsights.org) |
 
 ## Europe
 | Organization        | URL           |
