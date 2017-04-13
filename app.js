@@ -1,4 +1,4 @@
-url = 'http://nucivic.github.io/dkan-sites/sites.json';
+url = 'http://getdkan.github.io/dkan-sites/sites.json';
 $.getJSON(url, function (json) {
     count = new DKANCounter(json);
     $("#total").html(count.count);
