@@ -99,7 +99,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Ministry of Labor, Peru    | [datos.trabajo.gob.pe](http://datos.trabajo.gob.pe/) |
 | Open Data Windsor Essex, Canada  | [odwe.ca](http://odwe.ca/) |
 | City of Fredericton, Canada | [http://data.fredericton.ca/](http://data.fredericton.ca) |
-| Saint Lucia | (data.govt.lc) | 
+| Saint Lucia | [data.gov.lc](http://data.gov.lc/) | 
 
 
 ## Africa
