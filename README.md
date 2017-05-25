@@ -33,6 +33,7 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Detail Data Northern Ireland, UK | [data.nicva.org](http://data.nicva.org/) |
 | UK Financial Conduct Authority | Internal site - no public access |
 | Bank of England | Internal site - no public access |
+| Bonn, Germany      | [opendata.gelsenkirchen.de](https://opendata.gelsenkirchen.de) |
 | Bonn, Germany      | [opendata.bonn.de](http://opendata.bonn.de) |
 | Cologne, Germany      | [offenedaten-koeln.de](http://www.offenedaten-koeln.de) |
 | Dusseldorf, Germany | [offenedaten-duesseldorf.de](http://www.offenedaten-duesseldorf.de) |
