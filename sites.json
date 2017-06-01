@@ -1,4 +1,11 @@
 [{
+	"title": "Bangladesh",
+	"url": "http://data.gov.bd",
+	"city": "",
+	"country": "Bangladesh",
+	"region": "Asia & Oceania"
+},
+{
 	"title": "Massachusetts",
 	"url": "http://docs.digital.mass.gov",
 	"city": "",
