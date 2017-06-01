@@ -1,4 +1,11 @@
 [{
+	"title": "DigitalC",
+	"url": "http://civicinsights.org",
+	"city": "Washington DC",
+	"country": "USA",
+	"region": "United States of America"
+},
+{
 	"title": "Bangladesh",
 	"url": "http://data.gov.bd",
 	"city": "",
