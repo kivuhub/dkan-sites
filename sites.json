@@ -1,4 +1,17 @@
 [{
+	"title": "Massachusetts",
+	"url": "http://docs.digital.mass.gov",
+	"city": "",
+	"country": "USA",
+	"region": "United States of America"
+},{
+	"title": "Nebraska",
+	"url": "www.nebraskamap.gov",
+	"city": "",
+	"country": "USA",
+	"region": "United States of America"
+},
+{
 	"title": "HealthData.gov",
 	"url": "https://healthdata.gov",
 	"city": "",
